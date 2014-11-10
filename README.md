@@ -119,3 +119,4 @@ Aim to understand...
 Additional resources:
 
 - [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+- [TutsPlus Videos: Advanced JS Fundamentals](https://www.copy.com/browse/a:e93a161;z:copy;b:myfiles/Tuts/AdvancedJSFundamental)
