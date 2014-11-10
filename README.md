@@ -1,4 +1,4 @@
-#Learn JS properly
+#Learn JS properly or else
 
 Based on the course at [javascriptissexy.com](http://javascriptissexy.com/how-to-learn-javascript-properly/) and [Reddit](http://www.reddit.com/r/learnjavascript/comments/1ceefw/learn_javascript_properly_omnibus_post/)
 
@@ -8,7 +8,7 @@ Based on the course at [javascriptissexy.com](http://javascriptissexy.com/how-to
 
 #JS Week 1-2
 
-Read chapters 3 and 4 of [Professional JavaScript](http://www.it-ebooks.info/book/483/) or equivilant
+Read chapters 3 and 4 of [Professional JavaScript](http://www.it-ebooks.info/book/483/) or equivilant resources
 
 ##3: Language Basics
 
