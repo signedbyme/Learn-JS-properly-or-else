@@ -23,7 +23,7 @@ Aim to understand...
 
 Additional resources:
 
-- [TutsPlus JS Fundamentals](https://www.copy.com/browse/a:e93a161;z:copy;b:myfiles/Tuts/JSFundamentals/readme.txt)
+- TutsPlus Videos: JS Fundamentals
 
 #JS Week 3
 
@@ -68,7 +68,7 @@ Skim:
 
 Additional resources:
 
-- [TutsPlus Advanced JS Fundamentals Videos](https://www.copy.com/browse/a:e93a161;z:copy;b:myfiles/Tuts/AdvancedJSFundamental/readme.txt)
+- TutsPlus Advanced JS Fundamentals Videos
 
 ##6: OOP
 
@@ -102,8 +102,8 @@ Skim:
 Additional resources:
 
 - [OOP In JavaScript: What You NEED to Know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
-- [1.5 Create Custom Objects](https://www.copy.com/browse/a:e93a161;z:copy;b:myfiles/Tuts/AdvancedJSFundamental/1.5.mp4)
-- [TutsPlus Videos: Object Oriented JS](https://www.copy.com/browse/a:e93a161;z:copy;b:myfiles/Tuts/ObjectOrientedJS/readme_intro.txt)
+- TutsPlus Videos: 1.5 Create Custom Objects
+- TutsPlus Videos: Object Oriented JS
 
 ##7: Function Expressions
 
@@ -119,4 +119,4 @@ Aim to understand...
 Additional resources:
 
 - [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
-- [TutsPlus Videos: Advanced JS Fundamentals](https://www.copy.com/browse/a:e93a161;z:copy;b:myfiles/Tuts/AdvancedJSFundamental)
+- TutsPlus Videos: Advanced JS Fundamentals
